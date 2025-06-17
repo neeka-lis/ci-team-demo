@@ -1,4 +1,10 @@
 # ci-team-demo
 
 this is the demo repository
-neeka maharjan 
+
+python
+hello this is demo
+java
+c
+c++
+dotnet
