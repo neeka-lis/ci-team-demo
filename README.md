@@ -1,4 +1,1 @@
-# ci-team-demo
-
-this is the demo repository
-neeka maharjan 
+THIS IS MY BEAUTIFUL README
